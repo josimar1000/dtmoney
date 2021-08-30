@@ -10,7 +10,7 @@ table {
   th{ 
     color: var(--text-body);
     font-weight: 400;
-    padding: 1rem 1rem;
+    padding: 1rem 2rem;
     text-align: left;
     line-height: 1.5rem;
   }
